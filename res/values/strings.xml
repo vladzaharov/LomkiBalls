@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Balls</string>
+    <string name="btn_start">Играть</string>
+    <string name="btn_setting">Настройки</string>
+    <string name="btn_back">Назад</string>
+    <string name="sound">Звук:</string>
+    <string name="on">Вкл.</string>
+    <string name="off">Выкл.</string>
+    <string name="countinue">Продолжить</string>
+    <string name="exit">Выход</string>
+    <string name="good">ОТЛИЧНО!</string>
+    <string name="next_level">Следующий \n уровень</string>
+    <string name="start">СТАРТ!</string>
+    <string name="level">Уровень: </string>
+    <string name="reset">ПОВТОРИТЬ</string>
+    <string name="check">Проверить</string>
+    <string name="info">Уровень не пройден :( </string>
+    <string name="noLife">Нет жизней,   смотреть рекламу?</string>
+    <string name="infoLife">До восстановления жизни: </string>
+    <string name="btn_AD">Смотри рекламу и играй дальше</string>
+    <string name="AD">Cмотреть\n рекламу</string>
+    <string name="yesBtn">Да</string>
+</resources>
